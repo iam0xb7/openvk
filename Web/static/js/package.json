@@ -16,7 +16,7 @@
     "msgpack-lite": "^0.1.26",
     "plotly.js-dist": "^1.52.3",
     "react": "15.1",
-    "react-dom": "15.1",
+    "react-dom": "15.7.0",
     "react-dom-factories": "^1.0.2",
     "requirejs": "^2.3.6",
     "soundjs": "^1.0.1",
